@@ -1,5 +1,5 @@
 # Projects
-Two Projects Have been made using C Programming
+Thre  Projects Have been made using C Programming
 
 
 Project 1: Number Guessing Game
